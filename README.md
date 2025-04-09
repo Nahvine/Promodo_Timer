@@ -2,6 +2,9 @@
 
 A minimalist and effective Pomodoro Timer web application to boost your productivity.
 
+![image](https://github.com/user-attachments/assets/b7db8d0b-35c5-45a0-a7ee-7bf458d23623)
+
+
 ## ✨ Features
 
 - **Clean Interface**: Simple and distraction-free design
