@@ -1,0 +1,9 @@
+{
+  "name": "Pomodoro Timer",
+  "short_name": "Pomodoro",
+  "description": "A Pomodoro timer to help you focus and be productive",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffeef2",
+  "theme_color": "#ff5e78"
+} 
